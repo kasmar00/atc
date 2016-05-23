@@ -1,0 +1,23 @@
+{
+  "icao": "LOT",
+  "name": "Lot Polish",
+  "callsign": {
+    "name": "Lot",
+    "length": 3,
+    "alpha": false
+  },
+  "fleets": {
+    "Eurolot": [
+      ["DH8C", 5]
+    ],
+    "long": [
+      ["B788", 6],
+    ],
+    "default": [
+      ["B734", 6],
+      ["E170", 6],
+      ["E190", 6],
+      
+    ]
+  }
+}
